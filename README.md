@@ -84,7 +84,7 @@
 
 ## 🎒 Образование
 [<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-number_ru.png)
-[<img src="/RosTelekom.png" width="280px" hspace="10px" alt="Сертификат РосТелеком»">](https://raw.githubusercontent.com/aleks142455/aleks142455/refs/heads/main/QA%20Studio.png)
+[<img src="/QA%20Studio.png" width="280px" hspace="10px" alt="Сертификат РосТелеком»">](https://raw.githubusercontent.com/aleks142455/aleks142455/refs/heads/main/QA%20Studio.png)
 
 <br>
 <br>

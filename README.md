@@ -78,11 +78,11 @@
 
 ## 🪴 Практика и стажировка
 [<img src="/hiiire.com.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/aleks142455/aleks142455/main/hiiire.com.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
 
 <br>
 
 ## 🎒 Образование
+[<img src="/CertificateMIDDL.png" width="280px" hspace="10px" alt="Сертификат Middle QA Studio»">](https://raw.githubusercontent.com/aleks142455/aleks142455/refs/heads/main/CertificateMIDDL.png)
 [<img src="/Rostelekom.png" width="280px" hspace="10px" alt="Сертификат Ростелеком»">](https://raw.githubusercontent.com/aleks142455/aleks142455/refs/heads/main/Rostelekom.png)
 [<img src="/QA%20Studio.png" width="280px" hspace="10px" alt="Сертификат QA Studio">](https://raw.githubusercontent.com/aleks142455/aleks142455/refs/heads/main/QA%20Studio.png)
 
